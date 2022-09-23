@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/VS2022/HotReloadWpfApp/bin/Debug/net6.0-windows
+/VS2022/HotReloadWpfApp/obj
+/VS2022/.vs
+/VS2022/*/bin
+/VS2022/*/obj
+*.vscode

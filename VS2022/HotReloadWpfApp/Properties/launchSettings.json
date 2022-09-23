@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HotReloadWpfApp": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
